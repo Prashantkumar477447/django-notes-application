@@ -1,4 +1,4 @@
-# Django Notes App  
+# Django Notes App
 
 A simple and efficient notes application built with **React** for the frontend and **Django** for the backend. This project serves as a great example of combining modern frontend technologies with a robust backend framework.  
 
